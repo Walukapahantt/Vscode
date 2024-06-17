@@ -1,0 +1,10 @@
+[2024-06-17T14:41:45.204Z] info  code-server 4.0.1 7fe23daf009e5234eaa54a1ea5ff26df384c47ac
+[2024-06-17T14:41:45.206Z] info  Using user-data-dir ~/VSCode-Server/.local/share/code-server
+[2024-06-17T14:41:45.247Z] info  Using config file ~/VSCode-Server/.config/code-server/config.yaml
+[2024-06-17T14:41:45.247Z] info  HTTP server listening on http://0.0.0.0/ 
+[2024-06-17T14:41:45.247Z] info    - Authentication is disabled 
+[2024-06-17T14:41:45.248Z] info    - Not serving HTTPS 
+[14:41:49] Extension host agent started.
+[14:42:06] [172.31.196.99][abf455cb][ManagementConnection] New connection established.
+[14:42:11] [172.31.196.99][80e33a49][ExtensionHostConnection] New connection established.
+[14:42:11] [172.31.196.99][80e33a49][ExtensionHostConnection] <204> Launched Extension Host Process.

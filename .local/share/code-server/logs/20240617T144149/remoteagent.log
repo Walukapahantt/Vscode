@@ -1,0 +1,18 @@
+[2024-06-17 14:41:49.332] [remoteagent] [info] Extension host agent started.
+[2024-06-17 14:42:06.866] [remoteagent] [info] [172.31.196.99][abf455cb][ManagementConnection] New connection established.
+[2024-06-17 14:42:11.970] [remoteagent] [info] [172.31.196.99][80e33a49][ExtensionHostConnection] New connection established.
+[2024-06-17 14:42:11.984] [remoteagent] [info] [172.31.196.99][80e33a49][ExtensionHostConnection] <204> Launched Extension Host Process.
+[2024-06-17 14:44:01.919] [remoteagent] [error] Failed to install extension. vscode-icons-team.vscode-icons
+[2024-06-17 14:44:01.921] [remoteagent] [error] Error: Client network socket disconnected before secure TLS connection was established
+    at connResetException (internal/errors.js:639:14)
+    at TLSSocket.onConnectEnd (_tls_wrap.js:1570:19)
+    at TLSSocket.emit (events.js:412:35)
+    at endReadableNT (internal/streams/readable.js:1333:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)
+[2024-06-17 14:44:21.729] [remoteagent] [error] Failed to install extension. vscode-icons-team.vscode-icons
+[2024-06-17 14:44:21.729] [remoteagent] [error] Error: Client network socket disconnected before secure TLS connection was established
+    at connResetException (internal/errors.js:639:14)
+    at TLSSocket.onConnectEnd (_tls_wrap.js:1570:19)
+    at TLSSocket.emit (events.js:412:35)
+    at endReadableNT (internal/streams/readable.js:1333:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21)

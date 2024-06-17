@@ -1,0 +1,26 @@
+[14:44:01] Failed to install extension. vscode-icons-team.vscode-icons
+[14:44:01] Error: Client network socket disconnected before secure TLS connection was established
+    at connResetException (internal/errors.js:639:14)
+    at TLSSocket.onConnectEnd (_tls_wrap.js:1570:19)
+    at TLSSocket.emit (events.js:412:35)
+    at endReadableNT (internal/streams/readable.js:1333:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'ECONNRESET',
+  path: null,
+  host: 'open-vsx.org',
+  port: 443,
+  localAddress: undefined
+}
+[14:44:21] Failed to install extension. vscode-icons-team.vscode-icons
+[14:44:21] Error: Client network socket disconnected before secure TLS connection was established
+    at connResetException (internal/errors.js:639:14)
+    at TLSSocket.onConnectEnd (_tls_wrap.js:1570:19)
+    at TLSSocket.emit (events.js:412:35)
+    at endReadableNT (internal/streams/readable.js:1333:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  code: 'ECONNRESET',
+  path: null,
+  host: 'open-vsx.org',
+  port: 443,
+  localAddress: undefined
+}
